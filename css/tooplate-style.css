@@ -26,10 +26,10 @@ a:hover { color: #30ADAD; }
 
 .tm-about-text a { color: #9F6; }
 
-h1, h2, p, i, address, .tm-text-white { color: white; }
+h1, h2, p, i, address, .tm-text-white { color: white !important; }
 
 .tm-link-gray { color: #999999; }
-.tm-link-white { color: white; }
+.tm-link-white { color: white !; }
 
 .tm-footer { 
     color: #999999; 
