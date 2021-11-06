@@ -1,9 +1,6 @@
 /*
-
 Tooplate 2122 Nano Folio
-
 https://www.tooplate.com/view/2122-nano-folio
-
 */
 
 html { overflow-x: hidden; }
@@ -214,4 +211,5 @@ address { font-style: normal; }
 .tm-bgcolor-1 { background-color: #F96699; }
 .tm-bgcolor-2 { background-color: #38CCCC; }
 .tm-bgcolor-3 { background-color: #99CCCC; }
+.tm-bgcolor-5 { background-color: #ff7e4b; }
 .tm-border-rounded { border-radius: 15px; }
